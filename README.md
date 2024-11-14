@@ -1,6 +1,6 @@
 # João Neto - Front-end Software Engineer 👋
 
-Bem-vindo ao meu perfil! Sou um engenheiro de software focado em desenvolvimento front-end, apaixonado por criar interfaces de usuário dinâmicas, acessíveis e intuitivas. Com uma sólida base em HTML, CSS, e JavaScript, tenho experiência em frameworks modernos como React e Angular, além de trabalhar com gerenciamento de estado e otimização de desempenho.
+Bem-vindo ao meu perfil! Sou um engenheiro de software focado em desenvolvimento front-end, apaixonado por criar interfaces de usuário dinâmicas, acessíveis e intuitivas. Com uma sólida base em HTML, CSS, e JavaScript, tenho experiência em frameworks modernos como React, além de trabalhar com gerenciamento de estado e otimização de desempenho.
 
 ---
 
